@@ -1,4 +1,8 @@
 # Just an api to get some crypto data...
 
 
-We do cool shit!
+"/" is for bitcoin
+
+"/eth" is for etherium
+
+"/usdt" is for Tether
